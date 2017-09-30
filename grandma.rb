@@ -1,8 +1,8 @@
-def speak_to_grandma(input)
-  if input == "I LOVE YOU GRANDMA!"
+def speak_to_grandma(string)
+  if string.uppercase
 
   else
-
+    return "HUH!? SPEAK UP, SONNY!"
   end
 end
 
